@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AntoMsq
+- 👋 Hi, I’m @Hurakant
 - 👀 I’m interested in videogames and music production
-- 🌱 I’m currently learning c++ and javascript
+- 🌱 I’m currently learning c++, C# and GDScript
 - 📫 How to reach me: @Hurakant on discord
 - 😄 Pronouns: Vene/co
 - ⚡ Fun fact: actually i dont know how to program nothing
