@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hurakant
+- 👋 Hi, I’m Antonio Mosquera
 - 👀 I’m interested in videogames and music production
 - 🌱 I’m currently learning c++, C# and GDScript
 - 📫 How to reach me: @Hurakant on discord
