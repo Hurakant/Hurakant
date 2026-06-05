@@ -2,8 +2,6 @@
 - 👀 I’m interested in videogames and music production
 - 🌱 I’m currently learning c++, C# and GDScript
 - 📫 How to reach me: @Hurakant on discord
-- 😄 Pronouns: Vene/co
-- ⚡ Fun fact: actually i dont know how to program nothing
 
 <!---
 AntoMsq/AntoMsq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
